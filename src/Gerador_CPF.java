@@ -1,6 +1,6 @@
 public class Gerador_CPF {
     // *-------------------------------------------------------- 
-    // *Caso queia gerar um número de CPF aleatório, novo.
+    // *Caso queia gerar um número de CPF aleatório, novo. **
     // *--------------------------------------------------------
     
         public static String criaCPF() {
